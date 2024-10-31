@@ -3,7 +3,8 @@
 Welcome to my portfolio! I'm Muhamad Fikry Saputra, Here, you'll find a showcase of my projects, each demonstrating my skills in data analysis, model building, and extracting actionable insights.
 
 ## About Me
-<img src="[https://github.com/fikrysaputra/CoffeeShopSales_Data_Analitycs/raw/main/images/df_coffee.png](https://github.com/user-attachments/assets/4c5d6542-ccc0-45bf-8970-5cd717aaad9d)" width="500" alt="Coffee Shop Analysis">
+![DSCF9003_copy-removebg-preview](https://github.com/user-attachments/assets/3d58c49e-5732-4c64-9d9d-ba74acbb4b9c)
+
 - **Location**: Garut, Jawa Barat
 - **Email**: [fikrysaputran28@gmail.com](mailto:fikrysaputran28@gmail.com)
 - **LinkedIn**: [Muhamad Fikry Saputra](https://www.linkedin.com/in/muhamad-fikry-saputra-004953200/)
