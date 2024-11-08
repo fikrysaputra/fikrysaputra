@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm Muhamad Fikry Saputra, Here, you'll find a showcase of my projects, each demonstrating my skills in data analysis, model building, and extracting actionable insights.
 
 ## About Me
-![DSCF9003_copy-removebg-preview](https://github.com/user-attachments/assets/3d58c49e-5732-4c64-9d9d-ba74acbb4b9c)
+<img src="https://github.com/user-attachments/assets/3d58c49e-5732-4c64-9d9d-ba74acbb4b9c" alt="About Me" width="200"/>
 
 - **Location**: Garut, Jawa Barat
 - **Email**: [fikrysaputran28@gmail.com](mailto:fikrysaputran28@gmail.com)
