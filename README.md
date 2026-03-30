@@ -58,27 +58,10 @@ Web developer focused on building efficient and scalable applications, with an i
 - Role-based access control
 - Built with Laravel and MySQL
 
-### Digital Document Generator
-- Generate dynamic PDF documents
-- Preview before download
-- Custom layout and styling
-
 ### Data Analysis Projects
 - Data cleaning and transformation using Python
 - Basic exploratory data analysis (EDA)
 - Visualization using common libraries
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -89,11 +72,7 @@ Web developer focused on building efficient and scalable applications, with an i
   fikrysaputran28@gmail.com
   <br/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" alt="LinkedIn" />
-  https://linkedin.com/in/your-profile
+  [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhamad-fikry-saputra-004953200/)
 </p>
 
 ---
-
-## Notes
-
-This profile reflects ongoing work and continuous learning in both web development and data science.
