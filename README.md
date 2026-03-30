@@ -72,7 +72,7 @@ Web developer focused on building efficient and scalable applications, with an i
   fikrysaputran28@gmail.com
   <br/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" alt="LinkedIn" />
-  [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhamad-fikry-saputra-004953200/)
+  https://www.linkedin.com/in/muhamad-fikry-saputra-004953200
 </p>
 
 ---
