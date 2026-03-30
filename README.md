@@ -1,15 +1,16 @@
 # Fikry Saputra
 
-Web developer focused on building efficient and scalable applications, with experience in data analysis.
+Web developer focused on building efficient and scalable applications, with an interest in data science using Python.
 
 ---
 
 ## About Me
 
-- Backend-focused developer using Laravel and PHP
-- Experienced in building web-based systems and dashboards
-- Interested in data processing and analysis
+- Backend-focused developer with experience in Laravel and PHP
+- Build web applications, dashboards, and internal systems
+- Working with data processing and basic analysis using Python
 - Focused on clean code, performance, and maintainability
+- Continuously improving skills in both web development and data science
 
 ---
 
@@ -22,6 +23,20 @@ Web developer focused on building efficient and scalable applications, with expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" alt="Bootstrap" />
 </p>
+
+---
+
+## Data & Analysis
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" alt="NumPy" />
+</p>
+
+- Data cleaning and preprocessing
+- Basic data analysis and visualization
+- Working with structured datasets
 
 ---
 
@@ -44,14 +59,14 @@ Web developer focused on building efficient and scalable applications, with expe
 - Built with Laravel and MySQL
 
 ### Digital Document Generator
-- Generate PDF documents dynamically
+- Generate dynamic PDF documents
 - Preview before download
 - Custom layout and styling
 
-### Internal Dashboard
-- Data visualization and reporting
-- Optimized backend queries
-- Responsive interface
+### Data Analysis Projects
+- Data cleaning and transformation using Python
+- Basic exploratory data analysis (EDA)
+- Visualization using common libraries
 
 ---
 
@@ -71,7 +86,7 @@ Web developer focused on building efficient and scalable applications, with expe
 
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="20" alt="Email" />
-  your-email@example.com
+  fikrysaputran28@gmail.com
   <br/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" alt="LinkedIn" />
   https://linkedin.com/in/your-profile
@@ -81,4 +96,4 @@ Web developer focused on building efficient and scalable applications, with expe
 
 ## Notes
 
-This profile is actively maintained and continues to evolve with new projects and skills.
+This profile reflects ongoing work and continuous learning in both web development and data science.
